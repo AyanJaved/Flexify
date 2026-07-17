@@ -1,5 +1,7 @@
 # 🏋️‍♂️ Flexify — AI Real-Time GYM Coach
 
+**🔗 Live app: [flexify.streamlit.app](https://flexify.streamlit.app/)**
+
 Flexify is a real-time AI fitness coach built with Streamlit, MediaPipe pose detection, and an LLM-powered voice pipeline. It watches your workout through your webcam, counts reps, tracks form (joint angles, alignment, depth), and gives you spoken feedback as you train — like having a coach standing next to you.
 
 ## ✨ Features
@@ -151,4 +153,4 @@ Issues and pull requests are welcome. If you're adding a new exercise detector, 
 
 ## 📄 License
 
-Add your chosen license here (e.g. MIT) — see [choosealicense.com](https://choosealicense.com/) if you're unsure which to pick.
+This project is licensed under the [MIT License](LICENSE).
