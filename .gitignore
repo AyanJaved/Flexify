@@ -5,5 +5,4 @@ __pycache__/
 .env
 .streamlit/secrets.toml
 data.db
-ml_models/*.task
 "@ | Out-File -Encoding utf8 .gitignore
